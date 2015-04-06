@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Getting Started
+  url: /getting-started/
+  excerpt: "Why did you achieve a GS?"
+  image:
+  
+- title: About
+  url: /about/
+  excerpt: "Why did I make this site in the first place?"
+  image:
+  
+- title: Sample
+  url: /sample/
+  excerpt: "What are the possibilities of this website?"
+  image:
+
+- title: Contact
+  url: /contact/
+  excerpt: "For communication"
+  image:
