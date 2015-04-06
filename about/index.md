@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: backgroundpage
 title: "About"
 date: 
 modified:
 excerpt:
 image:
-  feature:
+  background: abstract-4.jpg
+  feature: 
   teaser:
   thumb:
 ads: false
@@ -21,4 +22,5 @@ More specifically, this site does have a few purposes:
 
 3) To show others the capability of Github Pages
 
-Insert text here.
+You can do literally anything (non-dynamic) here. You can put a background image,
+for instance.
