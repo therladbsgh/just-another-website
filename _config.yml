@@ -5,7 +5,7 @@ description: A placeholder website with no content.
 logo: apple-touch-icon-precomposed.png
 teaser: 400x250.gif
 locale:
-url: /just-another-website
+url: #/just-another-website
 
 # Jekyll configuration
 
